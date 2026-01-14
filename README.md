@@ -3,8 +3,6 @@
 
 Versitron is a trusted **HD-SDI distribution amplifier manufacturer** offering high-performance video distribution solutions for professional studios, industrial facilities, and broadcast environments. Our HD-SDI distribution amplifiers deliver reliable signal amplification, zero-latency transmission, and consistent multi-output video feeds, ensuring uncompromised video quality for mission-critical applications.  
 
-[**Explore HD-SDI Distribution Amplifiers**](https://www.versitron.com/collections/hd-sdi-video-distribution-amplifiers)  
-
 ---
 
 ## Professional HD-SDI Distribution Amplifier
